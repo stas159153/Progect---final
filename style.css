@@ -614,8 +614,6 @@
     align-items: center;
     gap: 50px;
   }
-  .fhooter-content--none {
-  }
 }
 
 @media (max-width: 750px) {
